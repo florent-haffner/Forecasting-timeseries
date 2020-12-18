@@ -2,9 +2,14 @@
 
 Datas are missing but the presentation and notebooks are available.
 
-## ENV
+## Env
 
-Google Colab.
+Google Colab
+
+## Technology
+- Apache Spark
+- Facebook Prophet
+- Python3
 
 ## Summary
 
